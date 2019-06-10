@@ -1,0 +1,59 @@
+{
+  "chipper": {
+    "sha": "fd52d92b647f93bb2478e71b5de75587ed2aa21c",
+    "branch": "HEAD"
+  },
+  "sherpa": {
+    "sha": "2ee466c320f754de1e75969a89ddcfddc5b27810",
+    "branch": "HEAD"
+  },
+  "sun": {
+    "sha": "f53662b5c041c3d2eb4ae5a36ddb76c1167fdbbe",
+    "branch": "HEAD"
+  },
+  "scenery-phet": {
+    "sha": "2a8a74c12f74dfad07201efdeb7c252b82a1b746",
+    "branch": "HEAD"
+  },
+  "scenery": {
+    "sha": "8bda55c75f6b86f243f5d7bff77542ed54a9e4df",
+    "branch": "HEAD"
+  },
+  "phetcommon": {
+    "sha": "92b3576b73d060239d52cb60cb3d64c36bb7a3a3",
+    "branch": "HEAD"
+  },
+  "phet-core": {
+    "sha": "9ce862130e848a817d1f1c9fd749af5d97a376ef",
+    "branch": "HEAD"
+  },
+  "kite": {
+    "sha": "4500a24ddc452c624ad1f47c749ec38d500d779e",
+    "branch": "HEAD"
+  },
+  "joist": {
+    "sha": "9934ae8e6ded6292bf61e5847b77e3d3c8af34e5",
+    "branch": "HEAD"
+  },
+  "dot": {
+    "sha": "8e761cfab5ea4455ff4445adbe6c9286dc299201",
+    "branch": "HEAD"
+  },
+  "brand": {
+    "sha": "8be52066aa533f58f118abd34d73f2609c844d48",
+    "branch": "HEAD"
+  },
+  "axon": {
+    "sha": "bd88cd7e2d2be78665ad1d28eff77ddd97784f27",
+    "branch": "HEAD"
+  },
+  "assert": {
+    "sha": "e4595f5eae375c15fa9aaba9511c52dbc1b0f2c6",
+    "branch": "HEAD"
+  },
+  "friction": {
+    "sha": "e0c849b7e1785226d9477cd81c31e832d2d607a2",
+    "branch": "1.1"
+  },
+  "comment": "# friction 1.1.0 Thu Sep 04 2014 11:00:57 GMT-0600 (Mountain Daylight Time)"
+}

@@ -1,0 +1,13 @@
+# resistance-in-a-wire 1.1.0-rc2 Tue Sep 3 15:50:28 PDT 2013
+resistance-in-a-wire 3f8ce9215178ef3622423c776fb115de008e65bc
+assert 8b4caae26fcee2870e0664147e6131e634b928a1
+axon ffbda86c35dd320309cf4dd0d22fdd6054052522
+dot 722b00025602279ceb813d74a773d2c8ffc12cef
+joist 47e9c65b3beeb08bf25ca4bd73bdc3d0219c08cb
+kite da10fa2b424e45ca4b389bf88c5f4f9ed4ac2ca7
+phet-core f2c12df82f589975cfe30960d0ae6019d983df4c
+phetcommon 5ab83a1269dd1461198e48afe2e5fffc5f6afe82
+scenery 01706a2facde508a545b4eecdbcec126eaef126a
+scenery-phet faa8d1fa517b3ed2027341f8c0057cbca5cc48a8
+sun c76c00c4ae46b01ac603f5335762952909188d4b
+chipper f80ec602bcbe965379ff9fe6ecb803f6f8c75000

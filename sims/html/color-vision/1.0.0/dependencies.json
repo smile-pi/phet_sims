@@ -1,0 +1,59 @@
+{
+  "chipper": {
+    "sha": "6560c4134be65eb9679e2df3c7385c05bc2a887e",
+    "branch": "HEAD"
+  },
+  "sherpa": {
+    "sha": "2ee466c320f754de1e75969a89ddcfddc5b27810",
+    "branch": "HEAD"
+  },
+  "sun": {
+    "sha": "1b8b48afce18e1cd2f0f0dc7942eb66c5edfcf5d",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "26a7611d9459382c47d1f971ff4d3ee6edc42a14",
+    "branch": "HEAD"
+  },
+  "scenery": {
+    "sha": "1f8434c702dcaa5f9685571befebbe1bdd93e737",
+    "branch": "HEAD"
+  },
+  "phetcommon": {
+    "sha": "92b3576b73d060239d52cb60cb3d64c36bb7a3a3",
+    "branch": "HEAD"
+  },
+  "phet-core": {
+    "sha": "9ce862130e848a817d1f1c9fd749af5d97a376ef",
+    "branch": "HEAD"
+  },
+  "kite": {
+    "sha": "b8e681a33851b098cc9f339034879a82efc461dd",
+    "branch": "HEAD"
+  },
+  "joist": {
+    "sha": "b6b133590dac46e113786c173350bd317307ea1c",
+    "branch": "HEAD"
+  },
+  "dot": {
+    "sha": "05f3b7bf2ec86572a70c626518e642b01743f79b",
+    "branch": "HEAD"
+  },
+  "brand": {
+    "sha": "8be52066aa533f58f118abd34d73f2609c844d48",
+    "branch": "HEAD"
+  },
+  "axon": {
+    "sha": "bd88cd7e2d2be78665ad1d28eff77ddd97784f27",
+    "branch": "HEAD"
+  },
+  "assert": {
+    "sha": "e4595f5eae375c15fa9aaba9511c52dbc1b0f2c6",
+    "branch": "HEAD"
+  },
+  "color-vision": {
+    "sha": "d9f244aa67631643e36ae410034981d50f9a0047",
+    "branch": "1.0"
+  },
+  "comment": "# color-vision 1.0.0 Wed Sep 17 2014 12:57:28 GMT-0600 (MDT)"
+}

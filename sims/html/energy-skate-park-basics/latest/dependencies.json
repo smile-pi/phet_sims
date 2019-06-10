@@ -1,0 +1,59 @@
+{
+  "chipper": {
+    "sha": "ae9596649e5a320b97b6d935a9954fb8a3af15a1",
+    "branch": "HEAD"
+  },
+  "sherpa": {
+    "sha": "883cbc33dac82a7146c8bd4f66633097d9b62c4c",
+    "branch": "HEAD"
+  },
+  "axon": {
+    "sha": "37c22f512524abfd3b4e4b15825d59a3546f8782",
+    "branch": "HEAD"
+  },
+  "sun": {
+    "sha": "1ae2669e10ec9370721b64cc41bda78c14c3a0c1",
+    "branch": "HEAD"
+  },
+  "scenery-phet": {
+    "sha": "e867171adea6bfb7ec5fcfe78668c67b22a04e5b",
+    "branch": "HEAD"
+  },
+  "scenery": {
+    "sha": "267034d8a97d8cb3d9e30e9a1a2956f2b60de656",
+    "branch": "HEAD"
+  },
+  "phetcommon": {
+    "sha": "1bfd46f1f42c6cb305ba70f281d195211bc4ac00",
+    "branch": "HEAD"
+  },
+  "phet-core": {
+    "sha": "f85bb6811986ce5d9cc0b3cfae7f258b02557701",
+    "branch": "HEAD"
+  },
+  "kite": {
+    "sha": "c262daa0938f79862e5ef5cf6780197091d9b6d6",
+    "branch": "HEAD"
+  },
+  "joist": {
+    "sha": "7f13613a077b9a6783d89d1bc2ec9ac6ae1325e7",
+    "branch": "HEAD"
+  },
+  "dot": {
+    "sha": "78fa399bde69424d771b8b268b1afea29550222d",
+    "branch": "HEAD"
+  },
+  "brand": {
+    "sha": "8be52066aa533f58f118abd34d73f2609c844d48",
+    "branch": "HEAD"
+  },
+  "assert": {
+    "sha": "e4595f5eae375c15fa9aaba9511c52dbc1b0f2c6",
+    "branch": "HEAD"
+  },
+  "energy-skate-park-basics": {
+    "sha": "4220fb0c2a11b2a2d5133fbf37df8ad8ab357240",
+    "branch": "1.0"
+  },
+  "comment": "# energy-skate-park-basics 1.0.0 Mon Nov 10 2014 22:24:05 GMT-0700 (MST)"
+}

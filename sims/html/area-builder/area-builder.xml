@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project name="area-builder">
+<simulations>
+<simulation name="area-builder" locale="en">
+<title><![CDATA[Area Builder]]></title>
+</simulation>
+</simulations>
+</project>

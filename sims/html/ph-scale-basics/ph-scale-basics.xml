@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project name="ph-scale-basics">
+<simulations>
+<simulation name="ph-scale-basics" locale="en">
+<title><![CDATA[pH Scale: Basics]]></title>
+</simulation>
+</simulations>
+</project>

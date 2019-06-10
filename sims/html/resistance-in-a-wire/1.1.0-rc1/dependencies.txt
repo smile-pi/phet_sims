@@ -1,0 +1,51 @@
+# resistance-in-a-wire 1.1.0-rc1 Fri Aug 30 2013 12:06:02 GMT-0700 (Pacific Daylight Time)
+{
+  "chipper": {
+    "sha": "a0064d6da9110e774c032991233d9813c6440527",
+    "branch": "single-file"
+  },
+  "sun": {
+    "sha": "a54b6a6ac6a9d430f04cc2b570684f01ea414b03",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "cc3b935390aea9218df8aec78f98aff5a9165f9c",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "3491e7fcc00bbde81660ace9afcd1a8820896c9b",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "5ab83a1269dd1461198e48afe2e5fffc5f6afe82",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "f2c12df82f589975cfe30960d0ae6019d983df4c",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "6127595f0f275b82c9f9654880133ac0d61aa13a",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "b100f5ed418f0dffd1d4cec931653622d5992131",
+    "branch": "single-file"
+  },
+  "dot": {
+    "sha": "03932ecdac209f6cb03783bba3d5d652633a4c6d",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "ffbda86c35dd320309cf4dd0d22fdd6054052522",
+    "branch": "master"
+  },
+  "assert": {
+    "sha": "8b4caae26fcee2870e0664147e6131e634b928a1",
+    "branch": "master"
+  },
+  "resistance-in-a-wire": {
+    "sha": "dac3c2eb52091a36d1093c9ebd6ad0c44e8858a0",
+    "branch": "single-file-1.1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"en": {
+		"FARADAYS_LAW/faradays-law.n": "N",
+		"FARADAYS_LAW/faradays-law.s": "S",
+		"FARADAYS_LAW/faradays-law.showFieldLines": "Field lines",
+		"FARADAYS_LAW/faradays-law.voltage": "voltage",
+		"FARADAYS_LAW/faradays-law.name": "Faraday's Law",
+		"JOIST/credits.title": "Credits",
+		"JOIST/credits.leadDesign": "Lead Design: {0}",
+		"JOIST/credits.softwareDevelopment": "Software Development: {0}",
+		"JOIST/credits.team": "Team: {0}",
+		"JOIST/credits.qualityAssurance": "Quality Assurance: {0}",
+		"JOIST/credits.graphicArts": "Graphic Arts: {0}",
+		"JOIST/credits.translation": "Translation",
+		"JOIST/credits.thanks": "Thanks",
+		"JOIST/options.title": "Options",
+		"JOIST/showPointers": "Show Pointers",
+		"JOIST/done": "Done",
+		"JOIST/title.settings": "Settings",
+		"JOIST/termsPrivacyAndLicensing": "Terms, Privacy & Licensing",
+		"JOIST/menuItem.options": "Options...",
+		"JOIST/menuItem.about": "About...",
+		"JOIST/menuItem.mailInputEventsLog": "Mail Input Events Log",
+		"JOIST/menuItem.outputInputEventsLog": "Output Input Events Log",
+		"JOIST/menuItem.phetWebsite": "PhET website...",
+		"JOIST/menuItem.reportAProblem": "Report a Problem...",
+		"JOIST/menuItem.settings": "Settings...",
+		"JOIST/menuItem.submitInputEventsLog": "Submit Input Events Log"
+	}
+}

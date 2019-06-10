@@ -1,0 +1,13 @@
+# forces-and-motion-basics 1.0.0-rc16 Wed Sep 11 09:44:00 MDT 2013
+forces-and-motion-basics e3b7aa129aec0de6e34ac9e6d3e0806c6e369203
+assert 423923e81172513eb3ca58fb22e9a349e18b8467
+dot d7dc55116efa69a8d70700ba959ed8532b8e0337
+joist c552531e753f779dfdafdf70dd016222f0f26697
+kite 55da7a2ec875fec3b314aab63f9016d86bd725b6
+phet-core e7802678dae54f396a37d9f05befa1dc6359edc6
+phetcommon 683486cbb5ca766c5ff8689306413c3614cd1f1b
+scenery 2e4b57bf5212a44ebaa48c5c2f87abe59c2abbf9
+scenery-phet 4d69ab3d0a22ca127cf0bcf8023da3499bb47f77
+sun 2ddc609bdc89cf853d724d3a0230ce5abc9e3858
+axon c8f4b283e8cea046775a0e6b5c3d2e3fcfa8abc7
+chipper d3c4b928f5886c84d102fe0f2ab2a3e2d73b7709

@@ -1,0 +1,27 @@
+{
+	"en": {
+		"JOIST/credits.developmentTeam": "Development Team",
+		"JOIST/credits.leadDesign": "Lead Design: {0}",
+		"JOIST/credits.softwareDevelopment": "Software Development: {0}",
+		"JOIST/credits.designTeam": "Design Team: {0}",
+		"JOIST/credits.interviews": "Interviews: {0}",
+		"JOIST/credits.graphicArts": "Graphic Arts: {0}",
+		"JOIST/credits.translation": "Translation",
+		"JOIST/credits.thanks": "Thanks",
+		"JOIST/credits.qualityAssurance": "Quality Assurance: {0}",
+		"JOIST/showPointers": "Show Pointers",
+		"JOIST/done": "Done",
+		"JOIST/title.settings": "Settings",
+		"JOIST/termsPrivacyAndLicensing": "Terms, Privacy & Licensing",
+		"JOIST/menuItem.about": "About...",
+		"JOIST/menuItem.mailInputEventsLog": "Mail Input Events Log",
+		"JOIST/menuItem.outputInputEventsLog": "Output Input Events Log",
+		"JOIST/menuItem.phetWebsite": "PhET website...",
+		"JOIST/menuItem.reportAProblem": "Report a Problem...",
+		"JOIST/menuItem.settings": "Settings...",
+		"JOIST/menuItem.submitInputEventsLog": "Submit Input Events Log",
+		"FRICTION/simTitle": "Friction",
+		"FRICTION/chemistry": "Chemistry",
+		"FRICTION/physics": "Physics"
+	}
+}

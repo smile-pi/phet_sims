@@ -1,0 +1,63 @@
+{
+  "chipper": {
+    "sha": "f04feeb2b8c490d2c2e4b4fcece424b08afe98b7",
+    "branch": "HEAD"
+  },
+  "sherpa": {
+    "sha": "71d59ca730a951e5faee5d10144b99da954bd8d2",
+    "branch": "HEAD"
+  },
+  "sun": {
+    "sha": "f025335eb55925376ad3120de9f4df33070b0a3f",
+    "branch": "HEAD"
+  },
+  "scenery-phet": {
+    "sha": "956ce31a50c4ca5a0b455ef5c0283f7288ef9247",
+    "branch": "HEAD"
+  },
+  "scenery": {
+    "sha": "38622e06cb08d67e5c9ee8a2ff73e841ff2eb0e3",
+    "branch": "HEAD"
+  },
+  "ph-scale": {
+    "sha": "b2d3f25147e0f24f58ee103da8be62d969261a12",
+    "branch": "HEAD"
+  },
+  "phetcommon": {
+    "sha": "f5b48ba0c115ba9a1a7efb5b211047cb93893783",
+    "branch": "HEAD"
+  },
+  "phet-core": {
+    "sha": "31549be40abeda91d44ef9446361d0b611121949",
+    "branch": "HEAD"
+  },
+  "nitroglycerin": {
+    "sha": "c15cb6d17faa95d626e4981b5633e502d7c46f49",
+    "branch": "HEAD"
+  },
+  "kite": {
+    "sha": "b8e6d658327a10974c92516baf5764a406744c24",
+    "branch": "HEAD"
+  },
+  "joist": {
+    "sha": "c46cdd09d479dfcb254512ef723e0720d0428aab",
+    "branch": "HEAD"
+  },
+  "dot": {
+    "sha": "66bb26dd74119c8a95302db25d57d0dfcf4d700c",
+    "branch": "HEAD"
+  },
+  "axon": {
+    "sha": "e720a6201507cebb8f8feb0b9170389056ba0ad3",
+    "branch": "HEAD"
+  },
+  "assert": {
+    "sha": "ce8013d3c65c140de3ec4c6f8ab508f8098793db",
+    "branch": "HEAD"
+  },
+  "ph-scale-basics": {
+    "sha": "6e71d9d7a0cb732c60d71e975e15e696cdc47043",
+    "branch": "1.0"
+  },
+  "comment": "# ph-scale-basics 1.0.0 Tue Jan 07 2014 11:29:52 GMT-0700 (MST)"
+}
